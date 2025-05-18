@@ -74,7 +74,7 @@ A C++ console-based **Library Management System** built entirely using **Data St
 
 ```
 📦 LibraryManagementDSA/
- ┣ 📄 main.cpp        -> Main C++ file with all logic
+ ┣ 📄 library.cpp        -> Main C++ file with all logic
  ┗ 📄 README.md       -> This file
 ```
 
@@ -83,7 +83,7 @@ A C++ console-based **Library Management System** built entirely using **Data St
 ## 📌 How to Run
 
 ```bash
-g++ main.cpp -o library
+g++ library.cpp -o library
 ./library
 ```
 
